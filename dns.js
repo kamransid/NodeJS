@@ -1,0 +1,10 @@
+var dns = require('dns')
+var fs = require('fs')
+var b = require('./bachcha')
+var pi = require('domain')
+console.log(pi)
+//console.log(b)
+//console.log(fs)
+b.faltu = 'aadmi'
+console.log(b)
+//console.log(dns)
