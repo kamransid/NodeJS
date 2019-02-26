@@ -6,3 +6,10 @@ ujale = {
 parent = eval("ujale").children[3]
 //console.log(parent)
 console.log(eval(parent))
+
+var awara = []
+awara.push({ilahi:'karam'})
+awara.push(1)
+awara.push('hero')
+console.log(awara)
+console.log(awara)
